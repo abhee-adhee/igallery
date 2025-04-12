@@ -1,5 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
 ## Date:11-04-25
+## Name: ABINAV AADITYA
+## Register: 212224040008
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
